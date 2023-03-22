@@ -21,7 +21,8 @@
     "keen-slider": "^6.8.5",
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "stripe": "^11.14.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.55.0",
